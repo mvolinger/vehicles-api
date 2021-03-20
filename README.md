@@ -1,8 +1,8 @@
-<h3 style="text-align:center;"> 
+<h3 align="center"> 
 	The Vehicles API
 </h3>
 
-<p style="text-align:center;">
+<p align="center">
   <a href="#scroll-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#woman_technologist-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use-it">How to use it</a>&nbsp;&nbsp;&nbsp;
