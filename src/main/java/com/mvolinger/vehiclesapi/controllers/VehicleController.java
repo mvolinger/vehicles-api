@@ -25,7 +25,7 @@ public class VehicleController {
 
   private final VehicleService vehicleService;
 
-  @ApiOperation(value = "Perform the creation of a vehicle")
+  @ApiOperation(value = "Perform the creation of a vehicle", notes = "Attention! manufactureDate must be dd-MM-yyyy")
   @ApiResponses(value = {
           @ApiResponse(code = 201, message = "Successfully created vehicle")
   })
