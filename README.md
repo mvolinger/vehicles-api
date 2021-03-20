@@ -1,6 +1,6 @@
-<h3 align="center"> 
+<h2 align="center"> 
 	The Vehicles API
-</h3>
+</h2>
 
 <p align="center">
   <a href="#scroll-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
