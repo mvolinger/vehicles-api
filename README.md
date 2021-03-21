@@ -3,16 +3,16 @@
 </h3>
 
 <p align="center">
-  <a href="#scroll-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#woman_technologist-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#woman_technologist-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mag_right-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use-it">How to use it</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-## :scroll: Project
+## :woman_technologist: Project
 
 REST API to manage Ficticius Clean company vehicles fuel consumption.
 
-## :woman_technologist: Technologies
+## :mag_right: Technologies
 
 - Java 11
 - Gradle
