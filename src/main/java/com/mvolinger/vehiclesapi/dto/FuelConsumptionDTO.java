@@ -21,7 +21,7 @@ public class FuelConsumptionDTO {
   private String model;
 
   @JsonProperty(value= "year")
-  @JsonFormat(pattern = "yyyy")
+  @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy")
   private LocalDate manufactureDate;
 
   private Double consumedFuel;

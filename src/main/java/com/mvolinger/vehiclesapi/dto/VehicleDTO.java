@@ -19,7 +19,7 @@ public class VehicleDTO {
 
   private String model;
 
-  @JsonFormat(pattern = "dd-MM-yyyy")
+  @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd-MM-yyyy")
   private LocalDate manufactureDate;
 
   private Double cityFuelConsumption;

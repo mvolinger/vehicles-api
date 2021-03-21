@@ -49,10 +49,10 @@ $ git clone https://github.com/mvolinger/vehicles-api.git
 ### Using it
 ```bash
 # Swagger
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui/
+#Don't forget that final slash (seriously)
 
 # Perform the creation of a vehicle
-# Attention! manufactureDate must be dd-MM-yyyy
 [POST] http://localhost:8080/api/vehicle
 
 #Get information about vehicles fuel consumption by params
