@@ -43,6 +43,9 @@ $ git clone https://github.com/mvolinger/vehicles-api.git
 > Open vehicles-api with IntelliJ IDE
 > Wait until Gradle build task finish
 > Run VehiclesApiApplication with hotkey Shift+F10
+OR
+> Navigate to the root of the project via command line
+> Execute the command 'gradlew bootRun'
 ```
 
 ### Using it
@@ -56,8 +59,8 @@ http://localhost:8080/swagger-ui/
 
 #Get information about vehicles fuel consumption by params
 [GET] http://localhost:8080/api/vehicle?cityKm=10&fuelPrice=5.50&highwayKm=10
-
 ```
+
 ### Finally, you can always
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1490ee486efd2e3ba7da)
 ```
