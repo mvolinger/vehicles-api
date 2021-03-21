@@ -31,6 +31,7 @@ REST API to manage Ficticius Clean company vehicles fuel consumption.
 - [Java 11][java]
 - [IntelliJ][intellij]
 - [Lombok Plugin][lombok]
+- [Gradle Plugin][gradle]
 
 ### Then clone the project to your machine
 ```bash
@@ -75,3 +76,4 @@ Made by mvolinger :wave: [Get in touch!](https://www.linkedin.com/in/monisevolin
 [java]: https://adoptopenjdk.net/
 [intellij]: https://jetbrains.com/idea/download/
 [lombok]: https://plugins.jetbrains.com/plugin/6317-lombok
+[gradle]: https://plugins.jetbrains.com/plugin/13112-gradle
